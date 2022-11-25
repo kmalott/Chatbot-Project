@@ -58,3 +58,8 @@ Here is the gui added to the chatBot. It’s similar to most text message/chat i
 
 Sample Output:
 ![output responses](Images/gui.png)
+
+New features for Individual Assignment:
+
+Translation:
+Using the Google translate for python API (googletrans) the conversation between the user and the chatbot can now take place in any language that is currently supported by google translate. This API can be found at the following link: https://py-googletrans.readthedocs.io/en/latest/
