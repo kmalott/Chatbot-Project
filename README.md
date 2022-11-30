@@ -63,3 +63,8 @@ New features for Individual Assignment:
 
 Translation:
 Using the Google translate for python API (googletrans) the conversation between the user and the chatbot can now take place in any language that is currently supported by google translate. This API can be found at the following link: https://py-googletrans.readthedocs.io/en/latest/
+
+Directions:
+Using the Google Maps Directions API for python (googlemaps) the chatbot can now provide the user directions to campus from their home address. The API can be found at the following link: https://github.com/googlemaps/google-maps-services-python
+
+Note: Not all of the features implemented in assigment 3 can currently be used in this chatbot for the individual assignment
