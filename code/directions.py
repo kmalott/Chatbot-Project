@@ -4,7 +4,7 @@ import re
 
 def direction():
     #input API key
-    #gmaps = googlemaps.Client()
+    gmaps = googlemaps.Client(key='YOUR API KEY HERE')
 
     print("Welcome to the directions feature! Enter any address and directions to campus will be provided.")
     #get address from user
